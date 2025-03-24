@@ -10,10 +10,10 @@ This repository contains resources for merger analyzing of LioCinema and Jotstar
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms.
 
 ### Vision:  
-This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. 
+To make the merged platform as leading OTT platform with divered content and massive user growth.
 
 ## ⚠️ Problem Statement  
-To make the merger sucessful and make the merged OTT platform as most prominent streaming Platform in India, Lio Management needs to look at the detailed analysis on:
+ To make the merger sucessful, Lio Management needs to look at the detailed analysis on:
 
 - Content Library Analysis 
 - Subscriber Insights
