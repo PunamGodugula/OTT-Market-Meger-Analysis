@@ -1,8 +1,8 @@
-# 🚕 Goodcabs-Operations-Analysis  
+# 🎬 OTT Platforms Merger Analysis 
 
 This repository contains resources for analyzing and improving Goodcabs' operations in tier-2 cities across India. It includes:  
 
-🛠️ **SQL Queries** for data extraction and analysis.  
+🛠️ **Python Queries** for data extraction and analysis.  
 📊 **Dashboards** showcasing visual insights.  
 📑 **Presentations** with actionable recommendations for operational improvements.  
 
