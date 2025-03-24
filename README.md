@@ -1,49 +1,34 @@
 # 🎬 OTT Platforms Merger Analysis 
 
-This repository contains resources for analyzing and improving Goodcabs' operations in tier-2 cities across India. It includes:  
+This repository contains resources for merger analyzing of LioCinema and Jotstar
 
-🛠️ **Python Queries** for data extraction and analysis.  
+🛠️ **Python** for data extraction and analysis.  
 📊 **Dashboards** showcasing visual insights.  
-📑 **Presentations** with actionable recommendations for operational improvements.  
+📑 **Presentations** with actionable recommendations for merger.  
 
 ## 📝 Introduction  
-Founded in 2022, Goodcabs is committed to transforming cab services in Tier-2 cities.  
-
-It is currently operating in 10 tier-2 cities across India, with plans for expansion.  
+Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms.
 
 ### Vision:  
-To become the leading cab service in tier-2 cities while maintaining a balance between profitability and community support.  
+This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. 
 
 ## ⚠️ Problem Statement  
-GoodCabs aims to achieve ambitious performance targets for 2024. The data analytics team was tasked with analyzing:  
+To make the merger sucessful and make the merged OTT platform as most prominent streaming Platform in India, Lio Management needs to look at the detailed analysis on:
 
-- Trip Volume (Total Trips)  
-- Repeat Passenger Rate  
-- Passenger Satisfaction Scores  
-- Trip Distribution  
-- New vs. Repeat Passenger Trends  
+- Content Library Analysis 
+- Subscriber Insights
+- Inactivity Analysis
+- Upgrade Patterns
+- Downgrade Patterns
+- Content Consumption Behavior
 
 ## 🎯 Objective  
-- Analyze dataset to address key **Business Questions** on City-Level Trip Performance, Passenger Trends, Revenue Patterns, and Target Achievement.  
-- Present findings in a clear and visually engaging manner to assist the Chief of Operations in making informed strategic decisions.  
+- Analyze dataset to address key **Business Questions** on Content library, Subscribers behavior, Subscription Plans, Content Viewing Behavior and Revenue.  
+- Present findings in a clear and visually engaging manner to assist Lio Management in making informed strategic decisions.  
 
 ## 👩‍💻 Tech Stack  
 - **Data Visualization:** Power BI  
-- **Data Analysis:** SQL  
+- **Data Analysis:** Python  
 - **Data Modeling:** Snowflake schema  
-- **Tools:** Excel, SQL, Power BI Desktop, Power BI Service, and PowerPoint.  
+- **Tools:**  SQL, Power BI Desktop, Power BI Service, and PowerPoint.  
 
-## 📋 Data Summary  
-### Data Model  
-
-## 🏠 Login Page  
-Login Page  
-
-## 📊 Executive Dashboard  
-Executive Dashboard  
-
-## 🏙️ City Dashboard  
-City Dashboard  
-
-## 👨‍👩‍👧 Passenger Dashboard  
-Passenger Dashboard  
