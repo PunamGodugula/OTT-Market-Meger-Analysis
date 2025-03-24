@@ -1,6 +1,6 @@
 # 🎬 OTT Platforms Merger Analysis 
 
-This repository contains resources for merger analyzing of LioCinema and Jotstar
+This repository contains resources for merger analyzing of two OTT platforms LioCinema and Jotstar
 
 🛠️ **Python** for data extraction and analysis.  
 📊 **Dashboards** showcasing visual insights.  
