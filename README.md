@@ -23,7 +23,7 @@ To make the merged platform as leading OTT platform with divered content and mas
 - Content Consumption Behavior
 
 ## 🎯 Objective  
-- Analyze dataset to address key **Business Questions** on Content library, Subscribers behavior, Subscription Plans, Content Viewing Behavior and Revenue.  
+- Analyze SQL databases to address key **Business Questions** on Content library, Subscribers behavior, Subscription Plans, Content Viewing Behavior and Revenue.  
 - Present findings in a clear and visually engaging manner to assist Lio Management in making informed strategic decisions.  
 
 ## 👩‍💻 Tech Stack  
