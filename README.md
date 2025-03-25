@@ -30,5 +30,14 @@ To make the merged platform as leading OTT platform with divered content and mas
 - **Data Visualization:** Power BI  
 - **Data Analysis:** Python  
 - **Data Modeling:** Snowflake schema  
-- **Tools:**  SQL, Power BI Desktop, Power BI Service, and PowerPoint.  
+- **Tools:**  SQL, Power BI Desktop, Power BI Service, and PowerPoint.
+
+## 🫙Data Overview :
+Received two SQL databases one for LioCinema and another for Jotstar for the analysis, the tables present in each of the databases are of similar structure.
+The tables are :
+1. Content : This table provides detailed information about the content available on the platform, enabling analysis of content diversity, genre popularity, and runtime patterns.
+2. Subscribers : This table captures demographic and subscription details for users, enabling insights into subscriber acquisition, upgrades, downgrades, and inactivity patterns.
+3. Content Consumption :  This table captures user-level content consumption data, enabling analysis of total watch time, device preferences, and engagement trends
+
+Download files and explore more on this project here : [files](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
 
