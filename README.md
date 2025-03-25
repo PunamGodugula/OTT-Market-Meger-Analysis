@@ -42,33 +42,33 @@ The tables are :
 Download files and explore more on this project here : [link](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
 
 ## 🗝️ Key Insights : 
-### Content Library Analysis :
-  - **Liocinema** : 35% share of total library content, less diverse content, Movie-centric, stronger regional presence
-  - **Jotstar** : 65% share of total library, more diverse languages, genre and contents.
+### 📊 Content Library Analysis :
+  - **Liocinema** : Holds 35% of the total library content, primarily movie-centric with a strong regional presence but lower content diversity.
+  - **Jotstar** : Commands 65% of the library, offering greater diversity in languages, genres, and content.
 
-### Subscribers Insights :
-- **LioCinema** : 80% share, exponential user growth,
-- **Jotstar** : 20% share, linear user growth
+### 👥 Subscribers Insights :
+- **LioCinema** : 80% subscriber share with exponential user growth.
+- **Jotstar** : 20% subscriber share with linear user growth.
+  
+### 🌍 User Demographics : 
+- **Liocinema** : Popular among youth (18-24), making up 44% of its users, and widely used in Tier-3 cities (43%).
+- **Jotstar** : Appeals to young adults (25-34), representing 45% of users, with 57% from Tier-1 cities.
 
-## User Demographics : 
-- **Liocinema** : Popular among Youth(18-24) with 44% of its users, popular in Tier-3 with 43%
-- **Jotstar** : 45% of the users belong to Young Adults (25-34), 57% users belong to Tier-1.
+### 💤Inactivity Analysis :
+- **Liocinema** : 39% of users are inactive indicating lower content engagement. Young adults (19%) and free plan subscribers make up the majority of inactive users.
+- **Jotstar** : 13% inactive user reflecting better retention.
 
-## Inactivity Analysis :
-- **Liocinema** : 39% of the users are inactive showing less content attactive with majority of them belong to Young adults(19%) and Free Subscription Plan
-- **Jotstar** : 13% of users are inactive shows better rententeion of users.
+### 📈 Upgrade Pattern : 
+- **Liocinema** : Only 1.5% of users upgraded, split equally between basic (50%) and premium (50%) plans.
+- **Jotstar** :9.1% of users upgraded, with a strong preference for premium plans (81%), indicating high content satisfaction.
 
-## Upgrade Pattern : 
-- **Liocinema** : Only 1.5% of users upgraded to plan, with 50% of users upgraded to basic plan and 50% to premium plan
-- **Jotstar** : 9.1% of users upgraded their plan, with 81% of users upgraded to Premium plans shows people enjoy the content.
+###📉 Downgrade Pattern : 
+- **Liocinema** : 9.7% of users downgraded, with 85% switching to the free plan. 
+- **Jotstar** : 4.7% downgraded, with 87% switching to the free plan.
 
-## Downgrade Pattern : 
-- **Liocinema** : 9.7% users downgraded their plan, with 85% of users downgraded to Free plan 
-- **Jotstar** : 4.7% of users downgraded their plan, with 87% of users upgraded to Free plan.
-
-## Content Consumption Behavior : 
-- **Liocinema** : ARPU is 60 hours, mobile viewing dominated among devices, weak enagement across al city-tiers.
-- **Jotstar** : ARPU is 352 hours, mobile viewing dominated but good enagement all other devices, higher enagement across all tiers with ARPU > 250 hours
+### 🎥 Content Consumption Behavior : 
+- **Liocinema** : ARPU: 60 hours, mobile-first viewing, but weak engagement across city tiers.
+- **Jotstar** : ARPU: 352 hours, mobile-dominant but strong engagement across all devices and city tiers (ARPU > 250 hours).
 
   
 
