@@ -43,11 +43,34 @@ Download files and explore more on this project here : [link](https://codebasics
 
 ## 🗝️ Key Insights : 
 ### Content Library Analysis :
-  -**Liocinema** : 35% share of total library content, less diverse content, Movie-centric, stronger regional presence
-  -**Jotstar** : 65% share of total library, more diverse languages, genre and contents.
+  - **Liocinema** : 35% share of total library content, less diverse content, Movie-centric, stronger regional presence
+  - **Jotstar** : 65% share of total library, more diverse languages, genre and contents.
 
 ### Subscribers Insights :
--**LioCinema** : 80% share, exponential user growth,
--**Jotstar** : 20% share, linear user growth
+- **LioCinema** : 80% share, exponential user growth,
+- **Jotstar** : 20% share, linear user growth
+
+## User Demographics : 
+- **Liocinema** : Popular among Youth(18-24) with 44% of its users, popular in Tier-3 with 43%
+- **Jotstar** : 45% of the users belong to Young Adults (25-34), 57% users belong to Tier-1.
+
+## Inactivity Analysis :
+- **Liocinema** : 39% of the users are inactive showing less content attactive with majority of them belong to Young adults(19%) and Free Subscription Plan
+- **Jotstar** : 13% of users are inactive shows better rententeion of users.
+
+## Upgrade Pattern : 
+- **Liocinema** : Only 1.5% of users upgraded to plan, with 50% of users upgraded to basic plan and 50% to premium plan
+- **Jotstar** : 9.1% of users upgraded their plan, with 81% of users upgraded to Premium plans shows people enjoy the content.
+
+## Downgrade Pattern : 
+- **Liocinema** : 9.7% users downgraded their plan, with 85% of users downgraded to Free plan 
+- **Jotstar** : 4.7% of users downgraded their plan, with 87% of users upgraded to Free plan.
+
+## Content Consumption Behavior : 
+- **Liocinema** : ARPU is 60 hours, mobile viewing dominated among devices, weak enagement across al city-tiers.
+- **Jotstar** : ARPU is 352 hours, mobile viewing dominated but good enagement all other devices, higher enagement across all tiers with ARPU > 250 hours
+
+  
+
 
   
