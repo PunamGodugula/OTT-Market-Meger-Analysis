@@ -62,7 +62,7 @@ Download files and explore more on this project here : [link](https://codebasics
 - **Liocinema** : Only 1.5% of users upgraded, split equally between basic (50%) and premium (50%) plans.
 - **Jotstar** :9.1% of users upgraded, with a strong preference for premium plans (81%), indicating high content satisfaction.
 
-###📉 Downgrade Pattern : 
+### 📉 Downgrade Pattern : 
 - **Liocinema** : 9.7% of users downgraded, with 85% switching to the free plan. 
 - **Jotstar** : 4.7% downgraded, with 87% switching to the free plan.
 
@@ -70,7 +70,10 @@ Download files and explore more on this project here : [link](https://codebasics
 - **Liocinema** : ARPU: 60 hours, mobile-first viewing, but weak engagement across city tiers.
 - **Jotstar** : ARPU: 352 hours, mobile-dominant but strong engagement across all devices and city tiers (ARPU > 250 hours).
 
-  
+## 🗨️Key Takeaways on the Merger
+- **Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
+- **Higher Engagement & Monetization** – Leveraging Jotstar’s high engagement and premium plan upgrades, along with LioCinema’s growing user base, can increase retention and ARPU.
+- **Challenges & Opportunities** – Addressing LioCinema’s inactivity issues while maintaining content diversity will be crucial for seamless integration and long-term success.
 
 
   
