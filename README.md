@@ -2,9 +2,9 @@
 
 This repository contains resources for merger analyzing of two OTT platforms LioCinema and Jotstar
 
-- 🛠️ **Python** for data extraction and Primary analysis. [Primary Analysis](https://github.com/PunamGodugula/OTT-Merger/tree/main/Python%20files)
+- 🛠️ **Python** for data extraction and [Primary Analysis](https://github.com/PunamGodugula/OTT-Merger/tree/main/Python%20files)
 - 📊 **Dashboards** showcasing visual insights. [Dashboard files](https://github.com/PunamGodugula/OTT-Merger/tree/main/PowerBI%20Dashboard), [Live Dashborad](https://app.powerbi.com/view?r=eyJrIjoiOTQ2MjNiOTAtMTYzYy00YTNmLWEyYzAtM2M2NTNmOGMxOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=66003f1609d930b3aabc)
-📑 **Presentations** with actionable recommendations for merger.  
+- 📑 **Presentations** with actionable recommendations for merger.  
 
 ## 📝 Introduction  
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms.
@@ -39,5 +39,7 @@ The tables are :
 2. Subscribers : This table captures demographic and subscription details for users, enabling insights into subscriber acquisition, upgrades, downgrades, and inactivity patterns.
 3. Content Consumption :  This table captures user-level content consumption data, enabling analysis of total watch time, device preferences, and engagement trends
 
-Download files and explore more on this project here : [files](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
+Download files and explore more on this project here : [link](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
+
+## 🗝️ Key Insights : 
 
