@@ -42,11 +42,11 @@ The tables are :
 Download files and explore more on this project here : [link](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
 
 ## 🗝️ Key Insights : 
-###Content Library Analysis :
+### Content Library Analysis :
   -**Liocinema** : 35% share of total library content, less diverse content, Movie-centric, stronger regional presence
   -**Jotstar** : 65% share of total library, more diverse languages, genre and contents.
 
-###Subscribers Insights :
+### Subscribers Insights :
 -**LioCinema** : 80% share, exponential user growth,
 -**Jotstar** : 20% share, linear user growth
 
