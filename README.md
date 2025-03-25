@@ -2,8 +2,8 @@
 
 This repository contains resources for merger analyzing of two OTT platforms LioCinema and Jotstar
 
-🛠️ **Python** for data extraction and analysis.  
-📊 **Dashboards** showcasing visual insights.  
+🛠️ **Python** for data extraction and analysis. [Python file](https://github.com/PunamGodugula/OTT-Merger/tree/main/Python%20files)
+📊 **Dashboards** showcasing visual insights. [Dashboard files](https://github.com/PunamGodugula/OTT-Merger/tree/main/PowerBI%20Dashboard), [Live Dashborad](https://app.powerbi.com/view?r=eyJrIjoiOTQ2MjNiOTAtMTYzYy00YTNmLWEyYzAtM2M2NTNmOGMxOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=66003f1609d930b3aabc)
 📑 **Presentations** with actionable recommendations for merger.  
 
 ## 📝 Introduction  
