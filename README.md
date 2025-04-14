@@ -71,8 +71,10 @@ Download files and explore more on this project here : [link](https://codebasics
 - **Jotstar** : ARPU: 352 hours, mobile-dominant but strong engagement across all devices and city tiers (ARPU > 250 hours).
 
 ## 🗨️Key Takeaways on the Merger
-- **Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
-- **Higher Engagement & Monetization** – Leveraging Jotstar’s high engagement and premium plan upgrades, along with LioCinema’s growing user base, can increase retention and ARPU.
+- ** 💪🏻Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
+  
+- **🚀Higher Engagement & Monetization** – Leveraging Jotstar’s high engagement and premium plan upgrades, along with LioCinema’s growing user base, can increase retention and ARPU.
+  
 - **Challenges & Opportunities** – Addressing LioCinema’s inactivity issues while maintaining content diversity will be crucial for seamless integration and long-term success.
 
 
