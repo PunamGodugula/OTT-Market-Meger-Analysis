@@ -56,22 +56,22 @@ Download files and explore more on this project here : [link](https://codebasics
 
 ## 🗨️Key Takeaways on the Merger
  **1.🎬Content Library vs Diversity :**
-Liocinema holds 35% of total content, primarily regional and movie-focused. Jotstar owns 65% and offers wider genre and language variety—driving higher engagement (ARPU: 352 hrs vs 60 hrs).
+-Liocinema holds 35% of total content, primarily regional and movie-focused. Jotstar owns 65% and offers wider genre and language variety—driving higher engagement (ARPU: 352 hrs vs 60 hrs).
 
 **2.📉 Subscriber Share ≠ Retention :**
-Despite Liocinema owning 80% of subscribers, it struggles with retention (39% inactive users). Jotstar, with just 20% share, shows better user stickiness and lower inactivity (13%).
+- Despite Liocinema owning 80% of subscribers, it struggles with retention (39% inactive users). Jotstar, with just 20% share, shows better user stickiness and lower inactivity (13%).
 
 **3.👥 Demographics Drive Behavior :**
-Liocinema is popular among Tier-3 youth (18–24), while Jotstar thrives with young adults (25–34) in Tier-1 cities—translating into more premium upgrades and consistent usage.
+- Liocinema is popular among Tier-3 youth (18–24), while Jotstar thrives with young adults (25–34) in Tier-1 cities—translating into more premium upgrades and consistent usage.
 
 **4.💰 Upgrade Patterns Reflect Value Perception :**
-Jotstar sees 9.1% user upgrades (81% prefer premium), indicating high perceived value. Liocinema lags behind with only 1.5% upgrades, split evenly between basic and premium.
+- Jotstar sees 9.1% user upgrades (81% prefer premium), indicating high perceived value. Liocinema lags behind with only 1.5% upgrades, split evenly between basic and premium.
 
 **5. 📉 Downgrades Signal Risk :**
-Liocinema faces a 9.7% downgrade rate (85% switch to free plans), hinting at dissatisfaction. Jotstar fares better at 4.7%, suggesting stronger plan retention.
+- Liocinema faces a 9.7% downgrade rate (85% switch to free plans), hinting at dissatisfaction. Jotstar fares better at 4.7%, suggesting stronger plan retention.
 
 **6. 💤 Who’s Going Inactive? :**
-Liocinema’s inactive base includes a majority of free-plan users and young adults—pointing to a need for targeted engagement strategies. Jotstar’s engagement remains consistent across user types.
+- Liocinema’s inactive base includes a majority of free-plan users and young adults—pointing to a need for targeted engagement strategies. Jotstar’s engagement remains consistent across user types.
 
 ## Post Merger of both platforms :
 - **💪🏻Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
