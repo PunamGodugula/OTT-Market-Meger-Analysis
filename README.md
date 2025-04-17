@@ -2,8 +2,15 @@
 
 This repository contains resources for merger analyzing of two OTT platforms LioCinema and Jotstar
 
+## 👩‍💻 Tech Stack  
+- **Data Visualization:** Power BI  
+- **Data Analysis:** Python  
+- **Data Modeling:** Snowflake schema  
+- **Tools:**  SQL, Power BI Desktop, Power BI Service, and PowerPoint.
+
+📊 Key Resources
 - 🛠️ [**Python**](https://github.com/PunamGodugula/OTT-Market-Meger-Analysis/tree/main/Python%20files) for data exploraation and [Primary Analysis](https://github.com/PunamGodugula/OTT-Merger/tree/main/Python%20files)
-- 📊 **Dashboards** showcasing visual insights. [Dashboard files](https://github.com/PunamGodugula/OTT-Market-Meger-Analysis/tree/main/PowerBI%20Dasboard), [Live Dashborad](https://app.powerbi.com/view?r=eyJrIjoiOTQ2MjNiOTAtMTYzYy00YTNmLWEyYzAtM2M2NTNmOGMxOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=66003f1609d930b3aabc)
+- 📊 **PowerBI Dashboards** for visual insights. [Dashboard files](https://github.com/PunamGodugula/OTT-Market-Meger-Analysis/tree/main/PowerBI%20Dasboard), [Live Dashborad](https://app.powerbi.com/view?r=eyJrIjoiOTQ2MjNiOTAtMTYzYy00YTNmLWEyYzAtM2M2NTNmOGMxOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=66003f1609d930b3aabc)
 - 📑 **Presentations** with actionable recommendations for merger.[Complete Analysis](https://github.com/PunamGodugula/OTT-Market-Meger-Analysis/blob/main/liojotstar_primary_secondary_analysis.pdf), [Video Presentation](https://youtu.be/ejMtdmA9LFY)
 
 ## 📝 Introduction  
@@ -14,7 +21,6 @@ To make the merged platform as leading OTT platform with divered content and mas
 
 ## ⚠️ Problem Statement  
  To make the merger sucessful, Lio Management needs to look at the detailed analysis on:
-
 - Content Library Analysis 
 - Subscriber Insights
 - Inactivity Analysis
@@ -23,21 +29,8 @@ To make the merged platform as leading OTT platform with divered content and mas
 - Content Consumption Behavior
 
 ## 🎯 Objective  
-- Analyze SQL databases to address key **Business Questions** on Content library, Subscribers behavior, Subscription Plans, Content Viewing Behavior and Revenue.  
-- Present findings in a clear and visually engaging manner to assist Lio Management in making informed strategic decisions.  
-
-## 👩‍💻 Tech Stack  
-- **Data Visualization:** Power BI  
-- **Data Analysis:** Python  
-- **Data Modeling:** Snowflake schema  
-- **Tools:**  SQL, Power BI Desktop, Power BI Service, and PowerPoint.
-
-## 🫙Data Overview :
-Received two SQL databases one for LioCinema and another for Jotstar for the analysis, the tables present in each of the databases are of similar structure.
-The tables are :
-1. Content : This table provides detailed information about the content available on the platform, enabling analysis of content diversity, genre popularity, and runtime patterns.
-2. Subscribers : This table captures demographic and subscription details for users, enabling insights into subscriber acquisition, upgrades, downgrades, and inactivity patterns.
-3. Content Consumption :  This table captures user-level content consumption data, enabling analysis of total watch time, device preferences, and engagement trends
+- Analyze SQL databases to answer key Business Questions on content library, subscriber behavior, subscription plans, content viewing, and revenue.
+- Present the findings in a clear and visually engaging manner to assist Lio management in making strategic decisions.
 
 Download files and explore more on this project here : [link](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
 
