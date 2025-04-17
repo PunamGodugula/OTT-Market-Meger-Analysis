@@ -54,9 +54,9 @@ Download files and explore more on this project here : [link](https://codebasics
 |                                | Viewing Behavior                 | Mobile-first, weak city-tier engagement                   | Mobile-dominant, strong across devices and city tiers    |
 
 
-## 🗨️Key Takeaways on the Merger
+## 🗨️Key Takeaways : 
  **1.🎬Content Library vs Diversity :**
--Liocinema holds 35% of total content, primarily regional and movie-focused. Jotstar owns 65% and offers wider genre and language variety—driving higher engagement (ARPU: 352 hrs vs 60 hrs).
+- Liocinema holds 35% of total content, primarily regional and movie-focused. Jotstar owns 65% and offers wider genre and language variety—driving higher engagement (ARPU: 352 hrs vs 60 hrs).
 
 **2.📉 Subscriber Share ≠ Retention :**
 - Despite Liocinema owning 80% of subscribers, it struggles with retention (39% inactive users). Jotstar, with just 20% share, shows better user stickiness and lower inactivity (13%).
