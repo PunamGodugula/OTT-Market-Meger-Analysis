@@ -42,34 +42,6 @@ The tables are :
 Download files and explore more on this project here : [link](https://codebasics.io/challenge/codebasics-resume-project-challenge#uploadSuccess17)
 
 ## 🗝️ Key Insights : 
-### 📊 Content Library Analysis :
-  - **Liocinema** : Holds 35% of the total library content, primarily movie-centric with a strong regional presence but lower content diversity.
-  - **Jotstar** : Commands 65% of the library, offering greater diversity in languages, genres, and content.
-
-### 👥 Subscribers Insights :
-- **LioCinema** : 80% subscriber share with exponential user growth.
-- **Jotstar** : 20% subscriber share with linear user growth.
-  
-### 🌍 User Demographics : 
-- **Liocinema** : Popular among youth (18-24), making up 44% of its users, and widely used in Tier-3 cities (43%).
-- **Jotstar** : Appeals to young adults (25-34), representing 45% of users, with 57% from Tier-1 cities.
-
-### 💤Inactivity Analysis :
-- **Liocinema** : 39% of users are inactive indicating lower content engagement. Young adults (19%) and free plan subscribers make up the majority of inactive users.
-- **Jotstar** : 13% inactive user reflecting better retention.
-
-### 📈 Upgrade Pattern : 
-- **Liocinema** : Only 1.5% of users upgraded, split equally between basic (50%) and premium (50%) plans.
-- **Jotstar** :9.1% of users upgraded, with a strong preference for premium plans (81%), indicating high content satisfaction.
-
-### 📉 Downgrade Pattern : 
-- **Liocinema** : 9.7% of users downgraded, with 85% switching to the free plan. 
-- **Jotstar** : 4.7% downgraded, with 87% switching to the free plan.
-
-### 🎥 Content Consumption Behavior : 
-- **Liocinema** : ARPU: 60 hours, mobile-first viewing, but weak engagement across city tiers.
-- **Jotstar** : ARPU: 352 hours, mobile-dominant but strong engagement across all devices and city tiers (ARPU > 250 hours).
-
 
 | 📂 **Category**                | 📈 **Metric**                    | 🎬 **Liocinema**                                          | 📺 **Jotstar**                                           |
 |-------------------------------|----------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
