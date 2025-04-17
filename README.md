@@ -70,12 +70,6 @@ Download files and explore more on this project here : [link](https://codebasics
 - **Liocinema** : ARPU: 60 hours, mobile-first viewing, but weak engagement across city tiers.
 - **Jotstar** : ARPU: 352 hours, mobile-dominant but strong engagement across all devices and city tiers (ARPU > 250 hours).
 
-## 🗨️Key Takeaways on the Merger
-- **💪🏻Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
-  
-- **🚀Higher Engagement & Monetization** – Leveraging Jotstar’s high engagement and premium plan upgrades, along with LioCinema’s growing user base, can increase retention and ARPU.
-  
-- **Challenges & Opportunities** – Addressing LioCinema’s inactivity issues while maintaining content diversity will be crucial for seamless integration and long-term success.
 
 | 📂 **Category**                | 📈 **Metric**                    | 🎬 **Liocinema**                                          | 📺 **Jotstar**                                           |
 |-------------------------------|----------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
@@ -86,15 +80,20 @@ Download files and explore more on this project here : [link](https://codebasics
 | 🌍 **User Demographics**       | Dominant Age Group (%)           | 18–24 (44%)                                               | 25–34 (45%)                                              |
 |                                | City Tier Presence (%)           | Tier-3 cities (43%)                                       | Tier-1 cities (57%)                                      |
 | 💤 **Inactivity Analysis**     | Inactive User %                  | 39%                                                       | 13%                                                      |
-|                                | Inactive User Profile            | Young adults (19%), Free plan users                       | Better retention overall                                 |
+|                                | Inactive User Profile            | Young adults , Free plan users                       | Better retention overall                                 |
 | ⬆️ **Upgrade Pattern**         | Upgrade %                        | 1.5%                                                      | 9.1%                                                     |
 |                                | Plan Preference                  | Basic 50%, Premium 50%                                    | Premium preferred (81%)                                  |
 | ⬇️ **Downgrade Pattern**       | Downgrade %                      | 9.7%                                                      | 4.7%                                                     |
 |                                | Switched to Free Plan            | 85%                                                       | 87%                                                      |
-| 🎥 **Content Consumption**     | ARPU (Avg. Hours/User)           | 60                                                        | 352                                                      |
+| 🎥 **Content Consumption**     | ARPU (Avg. Hours/User)           | 60 hours                                                      | 352 hours                                                  |
 |                                | Viewing Behavior                 | Mobile-first, weak city-tier engagement                   | Mobile-dominant, strong across devices and city tiers    |
 
-
+## 🗨️Key Takeaways on the Merger
+- **💪🏻Stronger Market Position** – Combining LioCinema’s regional dominance with Jotstar’s diverse content will attract a wider audience and boost subscriber acquisition.
+  
+- **🚀Higher Engagement & Monetization** – Leveraging Jotstar’s high engagement and premium plan upgrades, along with LioCinema’s growing user base, can increase retention and ARPU.
+  
+- **Challenges & Opportunities** – Addressing LioCinema’s inactivity issues while maintaining content diversity will be crucial for seamless integration and long-term success.
 
 
   
